@@ -1,0 +1,12 @@
+#main{
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+#lg{
+    text-align: right;
+}
+button{
+    height: 30px;
+    width:200px;
+}
